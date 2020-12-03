@@ -1,4 +1,9 @@
-# guide_for_githuB_new_users
+### Guidance for new github users
+### Github 新手使用指南
+> 有感于网络上的 Github 使用指南多数对新手不够友好，且信息支离破碎。故建立本项目，用于收集整理 Github 使用指导。
+> 非常适合新手收藏参考
+
+#### 
 
 1.写在前边的话，为什么要写CitHub?
 跟朋友在交流的时候听到求职的时候发现有些公司要附Github帐号，一个优秀的 GitHub 账号当然能让你增色不少。自己之前听说过，但没有花时间研究，最后花了时间看了CitHub的文档，还有一些程序员写的的blog，就写下来了。
