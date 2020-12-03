@@ -10,5 +10,5 @@
 - Markdown是支持 Github的语言
 - 可以编辑当前你看到的这个页面
 
-#### 03 - [Markdown 英文全面介绍](https://github.com/yoyoleo/guide_for_new_github_users/tree/yoyoleo-patch-3）
+#### 03 - [Markdown 英文全面介绍](https://github.com/yoyoleo/guide_for_new_github_users/tree/yoyoleo-patch-3)
 - 下载 ['Macdown'](https://macdown.uranusjr.com/),找到help文件，左右对照，可以学习语法和效果预览
