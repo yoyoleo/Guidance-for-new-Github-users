@@ -6,6 +6,6 @@
 #### 01 - [初识Python](https://github.com/yoyoleo/guide_for_new_github_users/tree/yoyoleo-patch-1)
 - 了解 Github 的基本概念
 
-#### 02 - [markdown](https://github.com/yoyoleo/guide_for_new_github_users/compare/main...yoyoleo-patch-2-1?quick_pull=1)
+#### 02 - [Markdown](https://github.com/yoyoleo/guide_for_new_github_users/tree/yoyoleo-patch-2)
 - Markdown是支持 Github的语言
 - 可以编辑当前你看到的这个页面
