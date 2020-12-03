@@ -12,5 +12,5 @@
 - 下载 ['Macdown'](https://macdown.uranusjr.com/), 找到help文件，可以左右对照，快速学习语法和对应的页面展示效果
 - 在这里也可以看到help文档 - [Markdown 英文全面介绍](https://github.com/yoyoleo/guide_for_new_github_users/tree/yoyoleo-patch-2-1)
 
-#### 03 - [000]
-- 
+#### 03 - [Github的用途](https://github.com/yoyoleo/guide_for_new_github_users/tree/yoyoleo-patch-3)
+- to be continued.
