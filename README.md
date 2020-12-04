@@ -16,7 +16,11 @@
 - to be continued.
 
 #### 04 -Github 的远程管理
-- [Github 简明教程](https://www.runoob.com/w3cnote/git-guide.html)
+- 01 - Step 1[Github 简明教程](https://www.runoob.com/w3cnote/git-guide.html)
 > 如不成功，可以删掉SSH，重拾一次
 > MacBook 的默认安装目录'.ssh'，是一个隐藏目录，用搜索方式查找
-- [参考错误解决方案](https://www.cnblogs.com/Hepta/p/9140548.html)
+> [参考错误解决方案](https://www.cnblogs.com/Hepta/p/9140548.html)
+- 02 - 安装 Git 
+  > 安装 [Git](https://git-scm.com/download/mac)
+  > 安装 [Brew](https://brew.sh/index_zh-cn)
+  - 如不成功多尝试几次，可能需要科学上网
