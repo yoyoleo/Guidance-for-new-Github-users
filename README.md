@@ -14,3 +14,8 @@
 
 #### 03 - [Github的用途](https://github.com/yoyoleo/guide_for_new_github_users/tree/yoyoleo-patch-3)
 - to be continued.
+
+#### 04 -Github 的远程管理
+- [Github 简明教程](https://www.runoob.com/w3cnote/git-guide.html)
+- 如不成功，可以删掉SSH，重拾一次
+- [参考错误解决方案](https://www.cnblogs.com/Hepta/p/9140548.html)
