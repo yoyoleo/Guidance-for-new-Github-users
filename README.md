@@ -16,11 +16,16 @@
 - to be continued.
 
 #### 04 -Github 的远程管理
-- 01 - Step 1[Github 简明教程](https://www.runoob.com/w3cnote/git-guide.html)
+- 01 - [GitHub 官方Desktop管理UI]https://desktop.githubusercontent.com/releases/2.6.0-b666c0f3/GitHubDesktop.zip
+> 这个是很好用的，在探索 GitHub的时候发现的。
+> 但是之前搜索 GitHub 的桌面管理程序时，很多博客推荐 Git bash等，但那些应用都着实垃圾，浪费很多时间，真是一个大坑。
+下面把这些坑列出来，这些教程牛吹都很大，但却是垃圾，观摩一下即可。
+
+> 1.[Github 简明教程](https://www.runoob.com/w3cnote/git-guide.html)
 > 如不成功，可以删掉SSH，重拾一次
 > MacBook 的默认安装目录'.ssh'，是一个隐藏目录，用搜索方式查找
 > [参考错误解决方案](https://www.cnblogs.com/Hepta/p/9140548.html)
-- 02 - 安装 Git 
+> 2 - 安装 Git 
   > 安装 [Git](https://git-scm.com/download/mac)
   > 安装 [Brew](https://brew.sh/index_zh-cn)
-  - 如不成功多尝试几次，可能需要科学上网
+  > 如不成功多尝试几次，可能需要科学上网
