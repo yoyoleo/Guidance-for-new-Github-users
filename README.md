@@ -5,6 +5,7 @@
 
 #### 01 - [初识Python](./初次认识%20GitHub.md)
 - 了解 Github 的基本概念
+- Git使用教程 [人人都会用git](https://study.163.com/course/introduction.htm?courseId=1003268008&_trace_c_p_k2_=34dc4e82efb744b4a4b8875e13e9c828)
 
 #### 02 - [Markdown](./MarkDown.md)
 - Markdown是支持 Github的语言
